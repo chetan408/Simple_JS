@@ -8,7 +8,7 @@ display.type = "text";
 display.readOnly = true;
 calculator.appendChild(display);
 
-// Buttons and layout
+// Buttons and layout.
 const buttons = [
     ['1', '2', '3', '/'],
     ['4', '5', '6', '*'],
