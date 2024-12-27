@@ -32,7 +32,7 @@ buttons.forEach(row => {
     calculator.appendChild(rowDiv);
 });
 
-// Handle input
+// Handle inputs
 function handleInput(char) {
     const resultField = document.getElementById("result");
 
