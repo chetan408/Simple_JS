@@ -1,4 +1,4 @@
-// Create calculator structure using JavaScript
+
 const calculator = document.getElementById("calculator");
 
 // Create display
